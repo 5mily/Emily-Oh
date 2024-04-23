@@ -93,7 +93,7 @@ const quizArray = [
     { id: "2", question: "What's my favorite hobby?", options: ["Drawing", "Dance", "Fishing", "Karate"], correct: "Drawing", image: "quiz-3.png" },
     { id: "3", question: "Which states I'm currently based?", options: ["Ohio", "California", "New Mexico", "Texas"], correct: "Texas", image: "quiz-4.png" },
     { id: "4", question: "What is my go-to comfort food?", options: ["Burgers", "Sushi", "Tteokbokki", "Curry"], correct: "Tteokbokki", image: "quiz-5.png" },
-    { id: "5", question: "Who's my stan?", options: ["Higedan", "Taylor Swift", "BTS", "Kanye West"], correct: "Higedan", image: "quiz-6.png" },
+    { id: "5", question: "Who do I stan for?", options: ["Higedan", "Taylor Swift", "BTS", "Kanye West"], correct: "Higedan", image: "quiz-6.png" },
     { id: "6", question: "In college, what was my major?", options: ["Graphic Design", "Film", "Photography", "New Media"], correct: "New Media", image: "quiz-7.png" },
     { id: "7", question: "What is my all-time favorite TV show?", options: ["The Office", "Breaking Bad", "Game of Thrones", "The Walking Dead"], correct: "Breaking Bad", image: "quiz-8.png" },
     { id: "8", question: "What's my MBTI type?", options: ["ENTJ", "ISFJ", "ESTP", "INFP"], correct: "INFP", image: "quiz-9.png" },
